@@ -6,7 +6,7 @@ import { Facebook, Instagram, Twitter } from 'lucide-react';
 
 export const Footer = ({
     logoSrc = "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=256&h=256&fit=crop",
-    companyName = 'SymptomMapper Inc.',
+    companyName = 'MediNova Inc.',
     description = 'Empowering your healthcare journey with intelligent symptom mapping and clinical connections.',
     usefulLinks = [
         { label: 'Find a Doctor', href: '#' },
